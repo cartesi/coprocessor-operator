@@ -1,4 +1,8 @@
-# Setting up an operator for Cartesi Coprocessor on Holesky
+# Video walkthrough
+
+A video walkthrough of this component can be found here: https://www.youtube.com/watch?v=K1fUcLRBZ2w
+
+# Setting up an operator for Cartesi Coprocessor on Holesky (to be updated)
 
 * Requirements/assumptions: Ubuntu 24.04 - arm64 or amd64
 * Install Eigenlayer CLI https://github.com/Layr-Labs/eigenlayer-cli/releases/tag/v0.12.0-beta
